@@ -96,7 +96,7 @@ print("\n[2/5] Fetching mortgage interest rates (DNRNURI)...")
 try:
     df_rates = get_data(
         table_id="DNRNURI",
-        ariables=[
+        variables=[
             {"code": "DATA",     "values": ["AL51EFFR"]},  # Annualised agreed rate
             {"code": "INDSEK",   "values": ["1430"]},       # Households - employees
             {"code": "VALUTA",   "values": ["DKK"]},        # DKK only
@@ -122,7 +122,7 @@ try:
         variables=[
             {"code": "OMRÅDE",    "values": ["000"]},  # whole Denmark
             {"code": "ALDER",     "values": ["TOT"]},  #total
-            {"code": "KOEN",     "values": ["TOT"]},   #total
+            {"code": "KØN",     "values": ["TOT"]},   #total
             {"code": "Tid",      "values": ["*"]},     #All months
         ]
     )
