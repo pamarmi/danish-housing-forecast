@@ -77,15 +77,17 @@ All data from \[Statistics Denmark (Statistikbanken)](https://www.statistikbanke
 
 1. Data collection and exploration
 
-   1. Data collection \[completed]
-   2. Data exploration
+   1. Data collection [completed]
+   2. Data exploration [completed]
    3. Data cleaning and feature engineering
+
 2. Modelling
 
    1. Baseline models
    2. Time series models
    3. Regularised regression
    4. Uncertainty quantification
+
 3. Presentation and deployment
 
 
