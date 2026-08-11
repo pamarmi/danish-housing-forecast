@@ -1,4 +1,4 @@
-\# Danish Housing Price Forecasting
+# Danish Housing Price Forecasting
 
 
 
@@ -7,7 +7,7 @@ And a project for personal development and learning
 
 
 
-\## Motivation
+## Motivation
 
 
 
@@ -15,7 +15,7 @@ Denmark's housing market is a macroeconomically significant system driven by int
 
 
 
-\## Project structure
+## Project structure
 
 
 
@@ -49,7 +49,7 @@ danish-housing-forecast/
 
 
 
-\## Data sources
+## Data sources
 
 
 
@@ -73,7 +73,7 @@ All data from \[Statistics Denmark (Statistikbanken)](https://www.statistikbanke
 
 
 
-\## Stages and status
+## Stages and status
 
 1. Data collection and exploration
 
@@ -92,11 +92,11 @@ All data from \[Statistics Denmark (Statistikbanken)](https://www.statistikbanke
 
 
 
-\## Author
+## Author
 
 
 
 Pablo Martínez-Miravé  
 
-\[github.com/pamarmi](https://github.com/pamarmi)
+[github.com/pamarmi](https://github.com/pamarmi)
 
