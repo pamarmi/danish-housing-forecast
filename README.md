@@ -79,7 +79,9 @@ All data from \[Statistics Denmark (Statistikbanken)](https://www.statistikbanke
 
    1. Data collection [completed]
    2. Data exploration [completed]
-   3. Data cleaning and feature engineering
+   3. Data cleaning and feature engineering [completed]
+  
+      *The dataset is small. Models will be kept simple and interpretation must be accordingly careful
 
 2. Modelling
 
